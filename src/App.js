@@ -77,8 +77,8 @@ export default function App() {
             <div class="catty-music-small">
                   <img src="images/cattyboard.jpg" alt=""/>
                   <div>
-                  <p>If It Ain't Love</p>
-				<p>Catson Derulo</p>
+                  <p>fia</p>
+				<p>davido</p>
 
 
                   </div>
