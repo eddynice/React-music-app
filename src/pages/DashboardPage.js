@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 const DashboardPage = () => (
   <section>
     <h1>reformated Dashboard</h1>
-    <p>make my osaze</p>
+    <p>made my osaze</p>
     <Link to="/posts" className="button">
       View Posts
     </Link>
